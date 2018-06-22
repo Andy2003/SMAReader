@@ -21,7 +21,7 @@ j. "Reproduce" means to make copies of the Work by any means including without l
 
 3. License Grant. Subject to the terms and conditions of this License, Licensor hereby grants You a worldwide, royalty-free, non-exclusive, perpetual (for the duration of the applicable copyright) license to exercise the rights in the Work as stated below:
 a. to Reproduce the Work, to incorporate the Work into one or more Collections, and to Reproduce the Work as incorporated in the Collections;
-b. to create and Reproduce Adaptations provided that any such Adaptation, including any translation in any medium, takes reasonable steps to clearly label, demarcate or otherwise identify that changes were made to the original Work. For example, a translation could be marked "The original work was translated from English to Spanish," or a modification could indicate "The original work has been modified.";
+b. to create and Reproduce Adaptations provided that any such Adaptation, including any translation in any medium, takes reasonable steps to clearly label, demarcate or otherwise identify that changes were made to the original Work. For com.berger_freelancer.smalogger.example, a translation could be marked "The original work was translated from English to Spanish," or a modification could indicate "The original work has been modified.";
 c. to Distribute and Publicly Perform the Work including as incorporated in Collections; and,
 d. to Distribute and Publicly Perform Adaptations.
 

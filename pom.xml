@@ -1,0 +1,50 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0">
+	<modelVersion>4.0.0</modelVersion>
+
+	<groupId>com.github.andy2003</groupId>
+	<artifactId>sma-reader</artifactId>
+	<version>1.0-SNAPSHOT</version>
+
+	<name>SMA Reader</name>
+	<description>A library to read SMA devices</description>
+
+	<properties>
+		<maven.compiler.source>1.8</maven.compiler.source>
+		<maven.compiler.target>1.8</maven.compiler.target>
+	</properties>
+
+	<url>https://github.com/Andy2003/SMAReader</url>
+	<scm>
+		<url>https://github.com/Andy2003/SMAReader</url>
+		<connection>https://github.com/Andy2003/SMAReader.git</connection>
+	</scm>
+	<licenses>
+		<license>
+			<url>http://creativecommons.org/licenses/by-nc-sa/3.0/</url>
+			<name>Creative Commons - Attribution-NonCommercial-ShareAlike 3.0 Unported</name>
+		</license>
+	</licenses>
+
+	<developers>
+		<developer>
+			<name>Andreas Berger</name>
+			<url>https://github.com/Andy2003</url>
+			<timezone>Europe/Berlin</timezone>
+		</developer>
+	</developers>
+
+	<dependencies>
+		<dependency>
+			<groupId>org.slf4j</groupId>
+			<artifactId>slf4j-api</artifactId>
+			<version>1.7.25</version>
+		</dependency>
+		<dependency>
+			<groupId>ch.qos.logback</groupId>
+			<artifactId>logback-classic</artifactId>
+			<version>1.1.11</version>
+			<scope>test</scope>
+		</dependency>
+	</dependencies>
+
+</project>
