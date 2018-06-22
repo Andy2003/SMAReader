@@ -15,8 +15,9 @@
 
 	<url>https://github.com/Andy2003/SMAReader</url>
 	<scm>
-		<url>https://github.com/Andy2003/SMAReader</url>
-		<connection>https://github.com/Andy2003/SMAReader.git</connection>
+		<connection>scm:git:git://github.com/Andy2003/SMAReader.git</connection>
+		<developerConnection>scm:git:ssh://github.com:Andy2003/SMAReader.git</developerConnection>
+		<url>https://github.com/Andy2003/SMAReader/tree/master</url>
 	</scm>
 	<licenses>
 		<license>
